@@ -27,7 +27,8 @@ The majority of my analysis was done in the excel workbook labeled as "Lending A
 * Scenario 1 is the analysis of the current 5% interest rate.
 * Scenario 2 is the analysis of the propsed 6% interest rate.
 * The "Excel Data Analysis" tab is from the data analysis tool that excel has available.
-* The "Comparison" tab has my charts & final analysis when taking into consideration the interest rate increase
+* The "Comparison" tab has my charts & data analysis when taking into consideration the interest rate increase.
+* The PowerPoint presentation has my final results, analysis summary and a brief descprtions of the technologies I used.
 
 
 
