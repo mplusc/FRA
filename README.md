@@ -14,24 +14,20 @@
 * Also, based on previous analyses, increasing the interest rate to 6% would decrease the number of loans Navy Federal would originate by about 17%.  The payoff rate would also likely increase to about 2.50%.
 
 ## Data Cleaning
-The data cleaning and preprocessing for the model was done in a Jupyter notebook labeled as "FRA Assesment (cleaningdata)"
+The data cleaning and preprocessing for the model was done in a Jupyter notebook labeled as "FRA Assessment (cleaningdata)"
 
 ## Forecasting Model
-My forecasting model for this assessment was done in a Jupyter notebook labeled as "FRA Assesment (model)".
+My forecasting model for this assessment was done in a Jupyter notebook labeled as "FRA Assessment (model)".
 This model was based on a few assumptions labeled in the background section above.
-I used scikit-learn with a regression model to train and test the data for me to be able forescast the data through Q4 of 2020.
+I used scikit-learn with a regression model to train and test the data for me to be able forecast the data through Q4 of 2020.
 The model resulted in a R-Squared value of 0.318, which is low but when it comes to human behavior 0.3 is a fair level for the explained variance.
 
 ## Analysis
 The majority of my analysis was done in the excel workbook labeled as "Lending Analytics - FRA Assessment - Data and Data Dictionary - Dec 2018.xlsx" in the resources folder.
 * The "Data tab" was provided as well as the "Data Dictionary" tab.
-* The "Forecasted Data" tab is where I input my forecast thorugh Q4 2020 which were obtained from the scikit-learn rgression model.
+* The "Forecasted Data" tab is where I input my forecast through Q4 2020 which were obtained from the scikit-learn regression model.
 * Scenario 1 is the analysis of the current 5% interest rate.
-* Scenario 2 is the analysis of the propsed 6% interest rate.
+* Scenario 2 is the analysis of the proposed 6% interest rate.
 * The "Excel Data Analysis" tab is from the data analysis tool that excel has available.
 * The "Comparison" tab has my charts & data analysis when taking into consideration the interest rate increase.
-* The PowerPoint presentation has my final results, analysis summary and a brief descprtions of the technologies I used.
-
-
-
-
+* The PowerPoint presentation has my final results, analysis summary and a brief description of the technologies I used.
