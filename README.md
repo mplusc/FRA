@@ -4,15 +4,17 @@
 * Navy Federal is considering raising the interest rate on domestic automobile loans that we originate to 6%. Evaluate whether we should do this. Make sure your net income forecasts go out to Q4 2020, and you can assume zero origination and servicing costs in your calculations.  
 * Here is additional information, if needed: 
  * Domestic automobile sales through Q4 2017 (see attached Excel file)
- * Macroeconomic data, with forecasts through Q4 2020 (see attached Excel file)  Average loan amount: $25,000
+ * Macroeconomic data, with forecasts through Q4 2020 (see attached Excel file)
+ * Average loan amount: $25,000
  * Portfolio loss rate per quarter: 1.00%
  * Current annual interest rate per loan: 5.00%
- * Average term: 3 years  Portfolio payoff rate per quarter: 1.50%
+ * Average term: 3 years
+ * Portfolio payoff rate per quarter: 1.50%
  * Percentage of domestic automobile sales Navy Federal finances: 3.00% 
 * Also, based on previous analyses, increasing the interest rate to 6% would decrease the number of loans Navy Federal would originate by about 17%.  The payoff rate would also likely increase to about 2.50%.
 
 ## Data Cleaning
-The data cleaning was done in a Jupyter notebook labeled as "FRA Assesment (cleaningdata)"
+The data cleaning and preprocessing for the model was done in a Jupyter notebook labeled as "FRA Assesment (cleaningdata)"
 
 ## Forecasting Model
 My forecasting model for this assessment was done in a Jupyter notebook labeled as "FRA Assesment (model)".
